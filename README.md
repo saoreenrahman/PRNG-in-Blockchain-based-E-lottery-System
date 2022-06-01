@@ -77,3 +77,7 @@ Environment: java 9.0.1 above
 
 
 NIST Python files are from: https://github.com/GINARTeam/NIST-statistical-test
+
+Output:
+
+![1](https://user-images.githubusercontent.com/93157246/171341078-816e62a4-0c3f-4bd7-9515-512edd847d55.png)
