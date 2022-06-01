@@ -1,10 +1,10 @@
 # PRNG-in-Blockchain-based-E-lottery-System
 Organization of files:
 - Folder name: Paper 1
-	- Implementation of "Design of Blockchain Lottery for Thai Government" extension.
+	- Implementation of "Design of Blockchain Lottery for Thai Government" extension (link: https://www.researchgate.net/publication/330223692_Design_of_Blockchain_Lottery_for_Thai_Government) .
 	- Files: Lottery_Thai.sol, test_data.txt
 - Folder name: Paper 2
-	- Implementation of "Lottery DApp from Multi-Randomness Extraction.
+	- Implementation of "Lottery DApp from Multi-Randomness Extraction" extension (link: https://ieeexplore.ieee.org/document/8751323).
 	- Files: Lottery_Dapp.sol, test_data.txt
  
 
